@@ -78,6 +78,7 @@ main {
 .product-discription {
   margin-bottom: 1.5em;
   font-weight: 500;
+  line-height: 1.6;
 }
 
 .price {
@@ -109,7 +110,6 @@ main {
 .btn:hover {
   background-color: hsl(157, 31%, 24%);
 }
-
 
 @media screen and (min-width: 500px) {
   .row {
